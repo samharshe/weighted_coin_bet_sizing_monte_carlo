@@ -1,0 +1,800 @@
+Ending value: 1.0
+Bet size: 0.0
+Coin weight: 0.5
+--------------------
+Ending value: 0.3697
+Bet size: 0.005
+Coin weight: 0.5
+--------------------
+Ending value: 2.0041
+Bet size: 0.01
+Coin weight: 0.5
+--------------------
+Ending value: 0.0921
+Bet size: 0.015
+Coin weight: 0.5
+--------------------
+Ending value: 0.1249
+Bet size: 0.02
+Coin weight: 0.5
+--------------------
+Ending value: 2.0311
+Bet size: 0.025
+Coin weight: 0.5
+--------------------
+Ending value: 0.0906
+Bet size: 0.03
+Coin weight: 0.5
+--------------------
+Ending value: 2.0433
+Bet size: 0.035
+Coin weight: 0.5
+--------------------
+Ending value: 2.0503
+Bet size: 0.04
+Coin weight: 0.5
+--------------------
+Ending value: 2.002
+Bet size: 0.045
+Coin weight: 0.5
+--------------------
+Ending value: 2.03
+Bet size: 0.05
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.055
+Coin weight: 0.5
+--------------------
+Ending value: 2.1083
+Bet size: 0.06
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.065
+Coin weight: 0.5
+--------------------
+Ending value: 2.0315
+Bet size: 0.07
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.075
+Coin weight: 0.5
+--------------------
+Ending value: 2.1394
+Bet size: 0.08
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.085
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.09
+Coin weight: 0.5
+--------------------
+Ending value: 2.1257
+Bet size: 0.095
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.1
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.105
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.11
+Coin weight: 0.5
+--------------------
+Ending value: 2.0586
+Bet size: 0.115
+Coin weight: 0.5
+--------------------
+Ending value: 2.0209
+Bet size: 0.12
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.125
+Coin weight: 0.5
+--------------------
+Ending value: 2.0357
+Bet size: 0.13
+Coin weight: 0.5
+--------------------
+Ending value: 2.0563
+Bet size: 0.135
+Coin weight: 0.5
+--------------------
+Ending value: 2.152
+Bet size: 0.14
+Coin weight: 0.5
+--------------------
+Ending value: 2.2063
+Bet size: 0.145
+Coin weight: 0.5
+--------------------
+Ending value: 2.1604
+Bet size: 0.15
+Coin weight: 0.5
+--------------------
+Ending value: 2.1307
+Bet size: 0.155
+Coin weight: 0.5
+--------------------
+Ending value: 2.0174
+Bet size: 0.16
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.165
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.17
+Coin weight: 0.5
+--------------------
+Ending value: 2.1485
+Bet size: 0.175
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.18
+Coin weight: 0.5
+--------------------
+Ending value: 2.1048
+Bet size: 0.185
+Coin weight: 0.5
+--------------------
+Ending value: 2.3002
+Bet size: 0.19
+Coin weight: 0.5
+--------------------
+Ending value: 2.0393
+Bet size: 0.195
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.2
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.205
+Coin weight: 0.5
+--------------------
+Ending value: 2.37
+Bet size: 0.21
+Coin weight: 0.5
+--------------------
+Ending value: 2.2393
+Bet size: 0.215
+Coin weight: 0.5
+--------------------
+Ending value: 2.109
+Bet size: 0.22
+Coin weight: 0.5
+--------------------
+Ending value: 2.0663
+Bet size: 0.225
+Coin weight: 0.5
+--------------------
+Ending value: 2.2889
+Bet size: 0.23
+Coin weight: 0.5
+--------------------
+Ending value: 2.1807
+Bet size: 0.235
+Coin weight: 0.5
+--------------------
+Ending value: 2.0388
+Bet size: 0.24
+Coin weight: 0.5
+--------------------
+Ending value: 2.0153
+Bet size: 0.245
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.25
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.255
+Coin weight: 0.5
+--------------------
+Ending value: 2.0004
+Bet size: 0.26
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.265
+Coin weight: 0.5
+--------------------
+Ending value: 2.073
+Bet size: 0.27
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.275
+Coin weight: 0.5
+--------------------
+Ending value: 2.4787
+Bet size: 0.28
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.285
+Coin weight: 0.5
+--------------------
+Ending value: 2.1467
+Bet size: 0.29
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.295
+Coin weight: 0.5
+--------------------
+Ending value: 2.3651
+Bet size: 0.3
+Coin weight: 0.5
+--------------------
+Ending value: 2.0157
+Bet size: 0.305
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.31
+Coin weight: 0.5
+--------------------
+Ending value: 2.2739
+Bet size: 0.315
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.32
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.325
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.33
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.335
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.34
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.345
+Coin weight: 0.5
+--------------------
+Ending value: 2.2443
+Bet size: 0.35
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.355
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.36
+Coin weight: 0.5
+--------------------
+Ending value: 2.2045
+Bet size: 0.365
+Coin weight: 0.5
+--------------------
+Ending value: 2.6782
+Bet size: 0.37
+Coin weight: 0.5
+--------------------
+Ending value: 2.5996
+Bet size: 0.375
+Coin weight: 0.5
+--------------------
+Ending value: 2.2486
+Bet size: 0.38
+Coin weight: 0.5
+--------------------
+Ending value: 2.2629
+Bet size: 0.385
+Coin weight: 0.5
+--------------------
+Ending value: 2.6856
+Bet size: 0.39
+Coin weight: 0.5
+--------------------
+Ending value: 2.6633
+Bet size: 0.395
+Coin weight: 0.5
+--------------------
+Ending value: 2.305
+Bet size: 0.4
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.405
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.41
+Coin weight: 0.5
+--------------------
+Ending value: 2.2047
+Bet size: 0.415
+Coin weight: 0.5
+--------------------
+Ending value: 2.2714
+Bet size: 0.42
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.425
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.43
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.435
+Coin weight: 0.5
+--------------------
+Ending value: 2.2958
+Bet size: 0.44
+Coin weight: 0.5
+--------------------
+Ending value: 2.088
+Bet size: 0.445
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.45
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.455
+Coin weight: 0.5
+--------------------
+Ending value: 2.1316
+Bet size: 0.46
+Coin weight: 0.5
+--------------------
+Ending value: 2.1462
+Bet size: 0.465
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.47
+Coin weight: 0.5
+--------------------
+Ending value: 2.8384
+Bet size: 0.475
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.48
+Coin weight: 0.5
+--------------------
+Ending value: 2.2052
+Bet size: 0.485
+Coin weight: 0.5
+--------------------
+Ending value: 2.2201
+Bet size: 0.49
+Coin weight: 0.5
+--------------------
+Ending value: 2.235
+Bet size: 0.495
+Coin weight: 0.5
+--------------------
+Ending value: 2.5312
+Bet size: 0.5
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.505
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.51
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.515
+Coin weight: 0.5
+--------------------
+Ending value: 2.2324
+Bet size: 0.52
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.525
+Coin weight: 0.5
+--------------------
+Ending value: 2.8336
+Bet size: 0.53
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.535
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.54
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.545
+Coin weight: 0.5
+--------------------
+Ending value: 2.4025
+Bet size: 0.55
+Coin weight: 0.5
+--------------------
+Ending value: 2.418
+Bet size: 0.555
+Coin weight: 0.5
+--------------------
+Ending value: 2.6059
+Bet size: 0.56
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.565
+Coin weight: 0.5
+--------------------
+Ending value: 2.6126
+Bet size: 0.57
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.575
+Coin weight: 0.5
+--------------------
+Ending value: 3.0169
+Bet size: 0.58
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.585
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.59
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.595
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.6
+Coin weight: 0.5
+--------------------
+Ending value: 2.576
+Bet size: 0.605
+Coin weight: 0.5
+--------------------
+Ending value: 2.5921
+Bet size: 0.61
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.615
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.62
+Coin weight: 0.5
+--------------------
+Ending value: 2.6406
+Bet size: 0.625
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.63
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.635
+Coin weight: 0.5
+--------------------
+Ending value: 2.6896
+Bet size: 0.64
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.645
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.65
+Coin weight: 0.5
+--------------------
+Ending value: 3.2276
+Bet size: 0.655
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.66
+Coin weight: 0.5
+--------------------
+Ending value: 2.7722
+Bet size: 0.665
+Coin weight: 0.5
+--------------------
+Ending value: 2.3623
+Bet size: 0.67
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.675
+Coin weight: 0.5
+--------------------
+Ending value: 2.8224
+Bet size: 0.68
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.685
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.69
+Coin weight: 0.5
+--------------------
+Ending value: 2.516
+Bet size: 0.695
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.7
+Coin weight: 0.5
+--------------------
+Ending value: 2.493
+Bet size: 0.705
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.71
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.715
+Coin weight: 0.5
+--------------------
+Ending value: 2.9584
+Bet size: 0.72
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.725
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.73
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.735
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.74
+Coin weight: 0.5
+--------------------
+Ending value: 3.045
+Bet size: 0.745
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.75
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.755
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.76
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.765
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.77
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.775
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.78
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.785
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.79
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.795
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.8
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.805
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.81
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.815
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.82
+Coin weight: 0.5
+--------------------
+Ending value: 3.3306
+Bet size: 0.825
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.83
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.835
+Coin weight: 0.5
+--------------------
+Ending value: 3.3856
+Bet size: 0.84
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.845
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.85
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.855
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.86
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.865
+Coin weight: 0.5
+--------------------
+Ending value: 3.4969
+Bet size: 0.87
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.875
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.88
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.885
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.89
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.895
+Coin weight: 0.5
+--------------------
+Ending value: 3.61
+Bet size: 0.9
+Coin weight: 0.5
+--------------------
+Ending value: 3.629
+Bet size: 0.905
+Coin weight: 0.5
+--------------------
+Ending value: 3.6481
+Bet size: 0.91
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.915
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.92
+Coin weight: 0.5
+--------------------
+Ending value: 3.7056
+Bet size: 0.925
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.93
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.935
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.94
+Coin weight: 0.5
+--------------------
+Ending value: 3.783
+Bet size: 0.945
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.95
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.955
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.96
+Coin weight: 0.5
+--------------------
+Ending value: 3.8612
+Bet size: 0.965
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.97
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.975
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.98
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.985
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.99
+Coin weight: 0.5
+--------------------
+Ending value: 0.0
+Bet size: 0.995
+Coin weight: 0.5
+--------------------
