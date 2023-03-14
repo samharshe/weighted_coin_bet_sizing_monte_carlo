@@ -1,0 +1,4 @@
+# Weighted coin bet sizing Monte Carlo simulation
+
+Here's the problem:
+You are given a weighted coin that lands heads-up x% of the time. You are given an infinitely divisible dollar—you can divide it into millicents, nanocents, and so on, as you wish. You must select a bet size. If the coin comes up heads, your pot grows by your bet size. If not, your pot shrinks by your bet size. Without exposing yourself to the risk of losing it all (i.e., without betting everything on heads round one, since that's against the spirit of the problem), what is the bet size that minimizes the number of rounds on average that it takes to double the pot size?
