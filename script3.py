@@ -38,5 +38,5 @@ for weight in weights:
 
 plt.scatter(weights, least_rounds)
 plt.plot([0.5, 1], [0, 1])
-plt.title(f"Coin weight v. the bet size at which the pot took the least number of rounds to double")
+plt.title(f"Coin weight v. bet size at which the pot took the least number of rounds to double")
 plt.show()
