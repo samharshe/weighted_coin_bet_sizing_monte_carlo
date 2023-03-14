@@ -7,7 +7,7 @@ def calculate_new_pot(old_pot, bet, weight):
 
 outputs = open('outputs2.txt', 'w')
 
-weights = np.arange(0.5, 1.0, 0.05).tolist()
+weights = np.arange(0.5, 1.0, 0.025).tolist()
 bets = np.arange(0.005, 1.0, 0.005).tolist()
 least_rounds = []
 
@@ -33,11 +33,10 @@ for weight in weights:
     least_rounds.append(bets[average_rounds.index(min(average_rounds))])
     
     plt.scatter(bets, average_rounds)
-    plt.title(f"Bet size v. average number of rounds to double for coin weight {round(weight, 2)}")
+    plt.title(f"Bet size v. average number of rounds to double for coin weight {round(weight, 3)}")
     plt.show()
 
 plt.scatter(weights, least_rounds)
-x, y = [0.5, 1], [0, 1]
-plt.plot(x, y, marker = 'o')
+plt.plot([0.5, 1], [0, 1])
 plt.title(f"Coin weight v. the bet size at which the pot took the least number of rounds to double")
 plt.show()
